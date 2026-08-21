@@ -14,7 +14,7 @@ from sklearn.model_selection import train_test_split
 # SETTINGS
 # ============================================================
 
-DATASET_DIR = r"C:\Users\khale\.cache\kagglehub\datasets\andrewmvd\face-mask-detection\versions\1"
+DATASET_DIR = r"/root/.cache/kagglehub/datasets/andrewmvd/face-mask-detection/versions/1"  
 
 OUTPUT_DIR = "processed_dataset"
 RAW_DIR = "raw_dataset"
